@@ -1,0 +1,32 @@
+{
+  "drinks": [
+    {
+      "id": 1,
+      "category": "Whisky",
+      "name": "Robertson",
+      "capacity": "750ml",
+      "imageSrc":"https://drinksvine.co.ke/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdrinksvine%2Fproducts%2Frobertson-winery.webp&w=640&q=75",
+      "drinkPoster":"",
+      "smallDrink":"",
+      "price":"1.00",
+      "percentage":"7.5% ",
+      "description":"Best ",
+      "CountryOfOrigin":"South Africa",
+      "Brand":"Robertson"
+    },
+    {
+      "id": 2,
+      "category": "Whisky",
+      "name": "Glenfiddich 15 Years",
+      "capacity": "750ml",
+      "imageSrc":"https://drinksvine.co.ke/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdrinksvine%2Fproducts%2FGlenfiddich-15-years.webp&w=640&q=75",
+      "drinkPoster":"",
+      "smallDrink":"",
+      "price":"750 ml @ Ksh 9,345 1 litre @ Ksh 10,400 750 ml @ Ksh 9,345 1 litre @ Ksh 10,400",
+      "percentage":"40% ",
+      "description":"Aroma: it has a tantalizing complex fragrance of Sweet vanilla fudge, rich dark fruit, and sweet honey.Taste: Smooth sherry oak, ginger, and cinnamon tantalize the taste buds. This combination gives the best sensory stimuli impression of a perfect drink to consume any day, any time. ",
+      "CountryOfOrigin":"Scotland",
+      "Brand":"Glenfiddich"
+    }
+  ]
+}
