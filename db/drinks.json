@@ -28,5 +28,11 @@
       "CountryOfOrigin":"Scotland",
       "Brand":"Glenfiddich"
     }
-  ]
+  ],
+   "users": [
+    {
+     "username":"brian",
+     "password":"electric"
+   }
+   ]
 }
